@@ -72,7 +72,7 @@ outfit-builder/
 
 - Frontend Deployment
     - Live Demo: The application is hosted on Vercel.
-    - Access it here: 
+    - Access it here: https://outfit-builder-seven.vercel.app/
 
 ## Live Demo
 
