@@ -2,7 +2,7 @@
 
 A fun and interactive drag-and-drop web app that lets users create custom outfits by combining different clothing items. You can build an outfit, save it, and even add it to your cart!
 
-![Outfit Builder Screenshot](public/preview.png)
+![Outfit Builder Screenshot](public/preview.PNG)
 
 ---
 
